@@ -1,6 +1,4 @@
-# Project Heatmap: Community-Level Heat Vulnerability Mapping
-
-# Community-Level Heat Vulnerability Mapping — Kaduna, Nigeria
+# Project Heatmap: Community-Level Heat Vulnerability Mapping — Kaduna, Nigeria
 
 ## Overview
 This project develops a **Heat Vulnerability Index (HVI)** for **Kaduna City, Nigeria**, integrating geospatial temperature data with demographic and infrastructural indicators. The goal is to identify urban neighborhoods most at risk from extreme heat exposure and limited adaptive capacity. The work is part of a broader effort to understand climate-related security risks and inform resilience planning across Northern Nigeria.
